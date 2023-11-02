@@ -14,7 +14,9 @@ Worked on various datasets from [Kaggle](https://www.kaggle.com/datasets)
 eg: Titanic Survival, Iris flower species, etc.
 
 Also, created some own dataset to run unsupervised models like K-means clustering.
-eg: ![image](https://github.com/zews78/ML_learning_projects/assets/56071706/91b00a9c-b04a-4ac8-8a0a-cdb8acb11ec4)
+Eg:
+
+![image](https://github.com/zews78/ML_learning_projects/assets/56071706/91b00a9c-b04a-4ac8-8a0a-cdb8acb11ec4)
 
 
 
