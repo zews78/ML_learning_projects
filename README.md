@@ -18,7 +18,7 @@ Eg:
 
 
 
-#K-means clustering:
+### K-means clustering:
 ![image](https://github.com/zews78/ML_learning_projects/assets/56071706/78d03f08-20b2-46ed-8a6c-d80ae9f71aa8)
 
 Clustering is one of the most common exploratory data analysis technique used to get an intuition about the structure of the data.
