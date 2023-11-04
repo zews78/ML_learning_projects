@@ -33,7 +33,8 @@ The way kmeans algorithm works is as follows:
 * Assign each data point to the closest cluster (centroid).
 * Compute the centroids for the clusters by taking the average of the all data points that belong to each cluster.
 
-![image](https://github.com/zews78/ML_learning_projects/assets/56071706/fb66366d-8d6b-46dc-8590-3bd7dfa3046a)
+![image](https://github.com/zews78/ML_learning_projects/assets/56071706/f637749f-b5e1-46c0-9c2b-4e0ed5af7d5d)
+
 
 
 
