@@ -41,7 +41,29 @@ The way kmeans algorithm works is as follows:
 
 
 -------
-precision, recall, f1-score, confusion matrix
+accuracy, precision, recall, f1-score, confusion matrix
+
+
+
+-------
+
+After learning all the different types of Model with diffrent hyperparameters. It becomes more difficult to choose the model and with specific hyperparameter.
+Here comes the end of this session with hyperparameter tuning.
+Where you iterate all possible models with there different possible hyperparameters check their model parameters like: accuracy, f1-score, etc. 
+And after tabular comparision you choose the best model.
+
+Below is the example shows printed tabular output to compare the models with their accuracy and best hyperparameters.
+
+| model               | best_score | best_params                   |
+|---------------------|------------|-------------------------------|
+| svm                 | 0.968842   | {'C': 0.1, 'kernel': 'poly'}   |
+| random_forest       | 0.935477   | {'n_estimators': 40}          |
+| logistic_regression | 0.922114   | {'C': 1}                      |
+| NB_gaussian         | 0.806928   | {}                            |
+| NB_multinomial      | 0.870350   | {}                            |
+| decision_tree       | 0.801927   | {'criterion': 'entropy'}      |
+| knn                 | 0.966622   | {'n_neighbors': 3}            |
+
 
 
 
